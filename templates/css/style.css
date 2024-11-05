@@ -1,0 +1,13 @@
+/* css project */
+.mg-form{
+    margin-bottom: 10px;
+}
+.mg-form{
+    margin-top: 10px;
+    width: 100%;
+}
+.error{
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+}
